@@ -1,3 +1,5 @@
+// update/adjust values as needed
+
 float robot_speed = 0.5;
 float backBoundDist = 20;
 float leftBoundDist = 20;
