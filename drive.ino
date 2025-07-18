@@ -1,3 +1,4 @@
+// update/adjust values as needed
 float rot_const = 2;
 float drive_speed = 0.5;
 float processed_heading;  // heading of the robot (-180 to 180)
